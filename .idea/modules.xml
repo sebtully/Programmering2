@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L01-Git/L01-Git.iml" filepath="$PROJECT_DIR$/L01-Git/L01-Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02-Polymorfi/L02-Polymorfi.iml" filepath="$PROJECT_DIR$/L02-Polymorfi/L02-Polymorfi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04_Comparable/L04_Comparable.iml" filepath="$PROJECT_DIR$/L04_Comparable/L04_Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndLambda/L05_InterfacesAndLambda.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndLambda/L05_InterfacesAndLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06_UnitTestOgSpecifikation/L06_UnitTestOgSpecifikation.iml" filepath="$PROJECT_DIR$/L06_UnitTestOgSpecifikation/L06_UnitTestOgSpecifikation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09_ArraysMoreDimensions/L09_ArraysMoreDimensions.iml" filepath="$PROJECT_DIR$/L09_ArraysMoreDimensions/L09_ArraysMoreDimensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09_Arraysdobbel/L09_Arraysdobbel.iml" filepath="$PROJECT_DIR$/L09_Arraysdobbel/L09_Arraysdobbel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10_JavaCollectionsFramwork/L10_JavaCollectionsFramwork.iml" filepath="$PROJECT_DIR$/L10_JavaCollectionsFramwork/L10_JavaCollectionsFramwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11_LinkedList/L11_LinkedList.iml" filepath="$PROJECT_DIR$/L11_LinkedList/L11_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12_StackAndBigO/L12_StackAndBigO.iml" filepath="$PROJECT_DIR$/L12_StackAndBigO/L12_StackAndBigO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13_Queue/L13_Queue.iml" filepath="$PROJECT_DIR$/L13_Queue/L13_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14_GenriskeKlasser/L14_GenriskeKlasser.iml" filepath="$PROJECT_DIR$/L14_GenriskeKlasser/L14_GenriskeKlasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15_RekusiveMetoder_Del1/L15_RekusiveMetoder_Del1.iml" filepath="$PROJECT_DIR$/L15_RekusiveMetoder_Del1/L15_RekusiveMetoder_Del1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16_RekusiveMetoder_Del2/L16_RekusiveMetoder_Del2.iml" filepath="$PROJECT_DIR$/L16_RekusiveMetoder_Del2/L16_RekusiveMetoder_Del2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17_Share-solve-Combine/L17_Share-solve-Combine.iml" filepath="$PROJECT_DIR$/L17_Share-solve-Combine/L17_Share-solve-Combine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 2.iml" filepath="$PROJECT_DIR$/Programmering 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt1_Test/Projekt1_Test.iml" filepath="$PROJECT_DIR$/Projekt1_Test/Projekt1_Test.iml" />
+    </modules>
+  </component>
+</project>
